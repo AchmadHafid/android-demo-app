@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Demo App</string>
+    <string name="toolbar_menu_search">Search</string>
+    <string name="toolbar_menu_favourite">Favourite</string>
+    <string name="search_hint">Enter Keyword</string>
+    <string name="action_search">Search</string>
+    <string name="action_show_all">Show All</string>
+
+</resources>

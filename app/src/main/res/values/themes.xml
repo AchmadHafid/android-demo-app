@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="Theme.DemoApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="bottomSheetDialogTheme">@style/Theme.Material3.DayNight.BottomSheetDialog</item>
+    </style>
+
+</resources>
